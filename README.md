@@ -16,6 +16,6 @@ submission/ # 最终提交材料
 env/        # 环境变量示例
 ```
 
-## 当前材料
 
-- `submission/【项目报告】破妄溯音.pdf`
+
+
